@@ -1,0 +1,53 @@
+html {
+  height: 100%;
+  width: 100%;
+}body {
+  background: #ffe6f2;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #ff99cc;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 4px solid #ff66b3;
+}
+
+h1 {
+  margin: 0;
+}
+
+.content {
+  padding: 20px;
+}
+
+.manga-box {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  border: 2px solid #ffb3d9;
+  width: 200px;
+}
+
+.manga-box img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.manga-box a {
+  display: inline-block;
+  margin-top: 10px;
+  color: hotpink;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #ff99cc;
+  color: white;
+  margin-top: 30px;
+}

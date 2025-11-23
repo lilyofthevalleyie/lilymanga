@@ -1,0 +1,25 @@
+reader.html
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Bölüm Oku – LilyManga</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Bölüm 1</h1>
+</header>
+
+<div class="content">
+    <img src="https://i.imgur.com/6Oe0wL9.jpeg" style="width:100%; border-radius:10px;">
+    <img src="https://i.imgur.com/nI9l8yG.jpeg" style="width:100%; border-radius:10px;">
+</div>
+
+<footer>
+    LilyManga © 2025
+</footer>
+
+</body>
+</html>
